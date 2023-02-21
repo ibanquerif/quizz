@@ -13,6 +13,7 @@ export class InicioComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
+    // ngOnInit
   }
 
   ingresar() {
